@@ -1,9 +1,8 @@
 
 # 👋 Hi, I'm Sivamani
 
-💻 Full Stack Developer  
-🌱 Building Rythu Mitra AI  
-🤖 Interested in AI & Machine Learning
+💻 Full Stack Developer
+🤖 Interested in building web apps integrated with AI.
 
 ---
 
