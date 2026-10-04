@@ -1,7 +1,6 @@
 
-# 👋 Hi, I'm Sivamani
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'M+Siva+Mani+Appari;Full+Stack+Developer;AI+%26+Machine+Learning;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-💻 Full Stack Developer
 🤖 Interested in building web apps integrated with AI.
 
 ---
